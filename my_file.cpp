@@ -28,7 +28,7 @@ Section 3
 
 3
 3
-3
+3  Part of feature 3
 3
 3
 3
